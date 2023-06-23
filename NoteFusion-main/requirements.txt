@@ -1,0 +1,14 @@
+graphviz
+streamlit
+streamlit-extras
+PyPDF4
+PyPDF2
+pdfplumber
+openai
+streamlit_chat
+google-cloud-vision
+pdf2image
+networkx
+graphviz
+streamlit-agraph
+BeautifulSoup4
